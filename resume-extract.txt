@@ -1,0 +1,82 @@
+  ADITYA RAJ 
+   B.Tech. | DSCE Bangalore 
+     Electronics & communication 
+     Engineering 
+     DOB:  08 july 2006 
+     Email: adityarajmanav@gmail.com 
+   Education 
+ 
+
+     2023-2027(EXPECTED) B.TECH, ECE 
+DSCE   
+CGPA: 7.01/10 
+2021-2023 
+INTERMEDIATE 
+Chinmaya vidalaya, Bokaro  
+TILL 2021 
+MATRICULATION 
+Saraswati vidya mandir, Munger 
+Links 
+ 
+
+     Github:// adityaraj9798 
+     LinkedIn://aditya-raj-1875662 
+     Email://adityarajmanav@gmail.com Skills 
+ 
+
+PROGRAMMING LANGUAGES 
+C, C++, Javascript 
+FRAMEWORK 
+ReactJS, Gatsby, NodeJS, NextJS 
+OTHERS 
+HTML, CSS, Git,Github 
+Figma, 
+Tailwind CSS 
+Adobe lightroom, Photoshop 
+LANGUAGES 
+English, Hindi 
+Coursework 
+ 
+
+Dsa,web development Sql, Generative ai 
+    Soft Skills 
+ 
+
+Leadership quality 
+Public Speaking 
+Time Management  
+ 
+ Projects 
+ 
+
+	SEP- 2025  NETFLIX CLONE 	GITHUB 
+/LIVE 
+ A movie streaming UI clone built to replicate the look and feel of Netflix. Includes multiple sections, hover effects, dynamic sliders, and responsive design for all screen sizes. Technologies used:  Html, Css, Javascript 
+	OCT - 2025  DAILY TASK TRACKER 	GITHUB 
+/LIVE 
+A personal task management tool that allows users to create tasks, track completion, and view weekly progress through interactive charts. Built with a modern and responsive UI for a smooth experience. 
+Technologies used: Html, Css , Javascript 
+	JAN - 2026  SMART TASK MANAGER 	GITHUB 
+/LIVE 
+ A full-stack task management application designed to help users create, organize, and track daily tasks efficiently. Includes task prioritization, deadline management, progress tracking, and secure data handling with a responsive and user-friendly interface to enhance productivity. 
+Technologies used: Html,Css, JavaScript, Node.js, Express.js, MongoDB, LocalStorage 
+Experience 
+ 
+
+ 
+AUG2023-NOW   DISCIPLINARY COMITEE                                   Member 
+                      Ensured discipline and effective crowd management while supporting the CPA team in seamless execution of college events. 
+DEC2025  TATAGROUP-GenAI Powered Data Analytics Job Simulation                                      Performed exploratory data analysis, risk profiling, and AIassisted delinquency prediction; created business reports and data-driven insights for collections strategy. 
+ 
+JAN2026  DELLOITE AUSTRALIA - Technology Job Simulation                               
+                      Completed practical coding and development tasks as part of a Deloitte-led virtual job simulation, gaining exposure to realworld technology workflows and problem-solving approaches 
+ 
+ 
+Achievements/Awards 
+
+    OCT- 2025 Ideathon 
+ 	                                                           
+Developed 	an 	AI-driven 	intrusion 	detection 	and 	blockchain-secured               communication solution for V2X privacy and automotive cybersecurity. 
+ 
+MAY - 2025 Aventus 3.0 	 
+Built a solution that guides emergency teams with faster routes to deliver relief supplies during disasters. 
