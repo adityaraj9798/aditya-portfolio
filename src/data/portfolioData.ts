@@ -177,7 +177,7 @@ export const portfolioData = {
     },
     {
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/aditya-raj-1875662",
+      href: "https://www.linkedin.com/in/aditya-raj-187566275/",
     },
     {
       label: "LeetCode",
