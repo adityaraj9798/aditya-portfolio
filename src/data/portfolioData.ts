@@ -35,6 +35,10 @@ export interface AchievementItem {
 export const portfolioData = {
   seo: {
     title: "Aditya Raj - Full Stack Developer",
+    description:
+      "Personal portfolio of Aditya Raj featuring full stack projects, achievements, experience, and contact links.",
+    siteUrl: "https://aditya-portfolio-three-khaki.vercel.app",
+    image: "/images/preview.png",
   },
   hero: {
     greeting: "Hello! I'm",
