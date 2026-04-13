@@ -44,8 +44,8 @@ export const portfolioData = {
     greeting: "Hello! I'm",
     firstName: "ADITYA",
     lastName: "RAJ",
-    roles: ["Full Stack", "Web"],
-    roleSuffixes: ["Developer", "Engineer"],
+    roles: ["Full Stack", "AI"],
+    roleSuffixes: ["Developer", "Builder"],
   },
   navbar: {
     initials: "AR",
@@ -53,39 +53,41 @@ export const portfolioData = {
   about: {
     title: "About Me",
     description:
-      "I am a B.Tech Electronics and Communication Engineering student at DSCE Bangalore with a strong interest in software development and modern web technologies. I build responsive and scalable web applications using JavaScript, React, Node.js, and modern frontend tools. I enjoy solving problems through data structures and algorithms and creating clean, user-friendly interfaces.",
+      "I am a B.Tech Electronics and Communication Engineering student at DSCE Bangalore focused on full stack development, scalable web applications, and practical AI-powered products. I work with JavaScript, TypeScript, React, Node.js, and the MERN stack, and I enjoy building secure, responsive applications that solve real user problems with clean engineering and thoughtful user experience.",
   },
   services: [
     {
       title: "FRONTEND",
-      subtitle: "Building Interactive UIs",
+      subtitle: "Interactive Product Interfaces",
       description:
-        "Building responsive, modern interfaces with a focus on clean layouts, interaction, and a smooth user experience across devices.",
+        "Building responsive interfaces with React and TypeScript, focused on usability, polished interactions, and real-world product flows across desktop and mobile.",
       tags: [
-        "ReactJS",
-        "NextJS",
+        "React",
+        "TypeScript",
+        "AngularJS",
         "JavaScript",
-        "Tailwind",
         "HTML5",
         "CSS3",
-        "Figma",
-        "Gatsby",
+        "Responsive UI",
+        "Firebase",
       ],
     },
     {
       title: "BACKEND",
-      subtitle: "Scalable Server Architecture",
+      subtitle: "Secure Full Stack Systems",
       description:
-        "Developing backend logic, APIs, and data-driven features for practical web applications with an emphasis on reliability and maintainability.",
+        "Developing backend systems, APIs, authentication flows, and performance-focused features with an emphasis on scalability, security, and maintainability.",
       tags: [
         "Node.js",
         "Express",
         "MongoDB",
         "SQL",
+        "JWT",
+        "OAuth",
         "REST APIs",
-        "Git",
-        "GitHub",
-        "Generative AI",
+        "Azure",
+        "Spring Boot",
+        "Prompt Engineering",
       ],
     },
   ] as ServiceItem[],
@@ -95,25 +97,25 @@ export const portfolioData = {
     subtitle: "experience",
     items: [
       {
-        role: "Disciplinary Committee Member",
-        company: "DSCE",
-        period: "AUG 2023 - NOW",
+        role: "Virtual Experience",
+        company: "Tata Group and Deloitte",
+        period: "2025 - 2026",
         summary:
-          "Ensured discipline and supported crowd management during college events while helping the CPA team execute activities smoothly.",
+          "Completed data analytics and technology simulation programs, working through practical business analysis, engineering, and problem-solving tasks in industry-style scenarios.",
       },
       {
-        role: "GenAI Data Analytics Job Simulation",
-        company: "Tata Group",
-        period: "DEC 2025",
+        role: "Project Experience",
+        company: "Skillpath AI and Smart Task Manager",
+        period: "2026",
         summary:
-          "Performed exploratory data analysis, risk profiling, and AI-assisted delinquency prediction, then translated findings into business-oriented reports and insights.",
+          "Built and deployed full stack applications focused on placement preparation and productivity, using MERN architecture, authentication, AI integrations, and deployment workflows.",
       },
       {
-        role: "Technology Job Simulation",
-        company: "Deloitte Australia",
-        period: "JAN 2026",
+        role: "Position of Responsibility",
+        company: "Disciplinary Committee, DSCE",
+        period: "2023 - Present",
         summary:
-          "Completed practical coding and development tasks in a simulated technology workflow and gained exposure to real-world engineering problem solving.",
+          "Supported event coordination and crowd management for college activities, helping maintain discipline and smooth execution during campus events.",
       },
     ] as CareerItem[],
   },
@@ -121,16 +123,28 @@ export const portfolioData = {
     title: "Achievements",
     items: [
       {
-        title: "Ideathon",
-        period: "OCT 2025",
+        title: "200+ DSA Problems Solved",
+        period: "2026",
         summary:
-          "Developed an AI-driven intrusion detection and blockchain-secured communication solution focused on V2X privacy and automotive cybersecurity.",
+          "Solved more than 200 problems across LeetCode, Codeforces, GeeksforGeeks, InterviewBit, and CodeChef.",
+      },
+      {
+        title: "LeetCode 50-Day Streak",
+        period: "2026",
+        summary:
+          "Earned a 50-day coding streak badge on LeetCode through consistent daily problem solving.",
       },
       {
         title: "Aventus 3.0",
         period: "MAY 2025",
         summary:
-          "Built a solution that helps emergency response teams identify faster routes for delivering relief supplies during disasters.",
+          "Built a disaster management solution that optimized emergency routes for faster relief delivery.",
+      },
+      {
+        title: "Industry Certifications",
+        period: "2025 - 2026",
+        summary:
+          "Earned certifications from Oracle, Deloitte, Tata, and Infosys in areas including generative AI, data analytics, Angular, and full stack development.",
       },
     ] as AchievementItem[],
   },
@@ -139,35 +153,33 @@ export const portfolioData = {
     highlight: "Work",
     projects: [
       {
-        title: "LeafWise AI",
-        category: "AI Plant Care Web App",
-        tools: "React, JavaScript, AI Features, Responsive Design",
-        image: "/images/leafwiseai1.png",
-        link: "https://leafwise-ai.vercel.app/",
-        githubLink: "https://github.com/adityaraj9798/leafwise-ai",
-      },
-      {
-        title: "Daily Task Tracker",
-        category: "Task Management App",
-        tools: "HTML, CSS, JavaScript, Charts, Responsive UI",
-        image: "/images/dailytasktracker1.png",
-        link: "https://adityaraj9798.github.io/Daily-task-tracker/",
-        githubLink: "https://github.com/adityaraj9798/Daily-task-tracker",
+        title: "Skillpath AI",
+        category: "AI Placement Preparation Platform",
+        tools: "MERN Stack, Gemini AI, OpenRouter API, JWT, Render, Vercel",
+        image: "/images/placeholder.webp",
       },
       {
         title: "Smart Task Manager",
         category: "Full Stack Productivity App",
-        tools: "HTML, CSS, JavaScript, Node.js, Express.js, MongoDB",
+        tools: "MERN Stack, JWT, MongoDB, CRUD, Productivity Tracking",
         image: "/images/smarttaskmanager1.png",
         link: "https://github-desktop-rq93.vercel.app/tasks",
         githubLink: "https://github.com/adityaraj9798/smart-task-manager",
+      },
+      {
+        title: "LeafWise AI",
+        category: "Plant Disease Detection Web App",
+        tools: "React, TypeScript, Swin Transformer, EfficientNetV2",
+        image: "/images/leafwiseai1.png",
+        link: "https://leafwise-ai.vercel.app/",
+        githubLink: "https://github.com/adityaraj9798/leafwise-ai",
       },
     ] as ProjectItem[],
   },
   contact: {
     title: "Contact",
     email: "adityarajmanav@gmail.com",
-    education: "B.Tech, ECE - DSCE Bangalore (2023-2027)",
+    education: "B.Tech, ECE - DSCE Bangalore (Sep 2023 - Mar 2027)",
     footerName: "Aditya Raj",
   },
   socialLinks: [

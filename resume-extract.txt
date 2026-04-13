@@ -1,82 +1,51 @@
-  ADITYA RAJ 
-   B.Tech. | DSCE Bangalore 
-     Electronics & communication 
-     Engineering 
-     DOB:  08 july 2006 
-     Email: adityarajmanav@gmail.com 
-   Education 
- 
+ADITYA Raj
+9798927844
+adityarajmanav@gmail.com
+Aditya raj
+Aditya Leetcode
+Portfolio
 
-     2023-2027(EXPECTED) B.TECH, ECE 
-DSCE   
-CGPA: 7.01/10 
-2021-2023 
-INTERMEDIATE 
-Chinmaya vidalaya, Bokaro  
-TILL 2021 
-MATRICULATION 
-Saraswati vidya mandir, Munger 
-Links 
- 
+Education
+DSCE Bangalore
+September 2023 - March 2027
+B.Tech, Electronics and Communication Engineering
+Bangalore, India
+Technical Courses: Data Structures and Algorithms, Analysis and Design of Algorithms, Object Oriented Programming, Operating Systems, Web Development, SQL
 
-     Github:// adityaraj9798 
-     LinkedIn://aditya-raj-1875662 
-     Email://adityarajmanav@gmail.com Skills 
- 
+Technical Skills
+Languages: C++, C#, Java 8+ (Streams, Lambdas, Functional Interfaces), JavaScript, TypeScript
+Frameworks & Databases: ASP.NET, AngularJS, Azure, Spring Boot (Basics), Firebase, NodeJs
+Scalability & Performance: Pagination, Query Optimization, API Optimization
+Concepts: OOPs, Data Structures & Algorithms, Authentication & Authorization (JWT, OAuth)
+AI: Prompt Engineering (Basics), AI tool usage (ChatGPT, API models), Embedding Models
+Testing & Quality: Postman Testing, Debugging, Code Reviews
 
-PROGRAMMING LANGUAGES 
-C, C++, Javascript 
-FRAMEWORK 
-ReactJS, Gatsby, NodeJS, NextJS 
-OTHERS 
-HTML, CSS, Git,Github 
-Figma, 
-Tailwind CSS 
-Adobe lightroom, Photoshop 
-LANGUAGES 
-English, Hindi 
-Coursework 
- 
+Experience & Work
+Virtual Experience: Tata Group (Data Analytics Simulation), Deloitte (Technology Simulation)
+Project Experience: Skillpath AI (AI-powered placement platform), Smart Task Manager (full stack application using MERN stack)
+Position of Responsibility: Disciplinary Committee Member (event coordination and management)
 
-Dsa,web development Sql, Generative ai 
-    Soft Skills 
- 
+Projects
+Skillpath AI | MERN Stack, Gemini AI, OpenRouter API, Render, Vercel | April 2026
+- Developed and deployed an AI-powered full-stack placement preparation platform using the MERN stack, featuring personalized roadmap generation, resume analysis, and AI-based mock interviews.
+- Integrated advanced AI capabilities using Google Gemini API and OpenRouter, along with secure authentication using JWT and bcrypt, plus dynamic features like progress tracking, job insights, and PDF export.
+- Deployed the application on Render and Vercel with responsive design and scalable user flows.
 
-Leadership quality 
-Public Speaking 
-Time Management  
- 
- Projects 
- 
+Smart Task Manager | MERN Stack, JWT, MongoDB, Render | February 2026
+- Developed a full-stack task management application using the MERN stack with JWT-based authentication for secure user registration, login, and protected routes.
+- Implemented CRUD operations, task categorization, priority levels, deadlines, subtasks, notes, and real-time updates.
+- Designed a responsive interface with productivity tracking such as efficiency metrics, streak monitoring, and smart filtering/search.
 
-	SEP- 2025  NETFLIX CLONE 	GITHUB 
-/LIVE 
- A movie streaming UI clone built to replicate the look and feel of Netflix. Includes multiple sections, hover effects, dynamic sliders, and responsive design for all screen sizes. Technologies used:  Html, Css, Javascript 
-	OCT - 2025  DAILY TASK TRACKER 	GITHUB 
-/LIVE 
-A personal task management tool that allows users to create tasks, track completion, and view weekly progress through interactive charts. Built with a modern and responsive UI for a smooth experience. 
-Technologies used: Html, Css , Javascript 
-	JAN - 2026  SMART TASK MANAGER 	GITHUB 
-/LIVE 
- A full-stack task management application designed to help users create, organize, and track daily tasks efficiently. Includes task prioritization, deadline management, progress tracking, and secure data handling with a responsive and user-friendly interface to enhance productivity. 
-Technologies used: Html,Css, JavaScript, Node.js, Express.js, MongoDB, LocalStorage 
-Experience 
- 
+LeafWise AI | React, TypeScript, Swin Transformer, EfficientNetV2 | January 2026
+- Developed a deep learning-based web application for plant disease detection using React and TypeScript, allowing users to upload leaf images and receive instant predictions.
+- Implemented a hybrid model combining Swin Transformer and EfficientNetV2 trained on the PlantVillage dataset for improved classification accuracy.
 
- 
-AUG2023-NOW   DISCIPLINARY COMITEE                                   Member 
-                      Ensured discipline and effective crowd management while supporting the CPA team in seamless execution of college events. 
-DEC2025  TATAGROUP-GenAI Powered Data Analytics Job Simulation                                      Performed exploratory data analysis, risk profiling, and AIassisted delinquency prediction; created business reports and data-driven insights for collections strategy. 
- 
-JAN2026  DELLOITE AUSTRALIA - Technology Job Simulation                               
-                      Completed practical coding and development tasks as part of a Deloitte-led virtual job simulation, gaining exposure to realworld technology workflows and problem-solving approaches 
- 
- 
-Achievements/Awards 
+Achievements
+- Solved more than 200+ problems across LeetCode, Codeforces, GeeksforGeeks, InterviewBit, and CodeChef.
+- Achieved a 50-day coding streak badge on LeetCode.
+- Built a disaster management solution at Aventus 3.0 (May 2025), optimizing emergency routes for faster relief delivery.
+- Earned certifications from Oracle, Deloitte, Tata, and Infosys (Angular Web Developer), gaining experience in Generative AI, data analytics, and full-stack development.
 
-    OCT- 2025 Ideathon 
- 	                                                           
-Developed 	an 	AI-driven 	intrusion 	detection 	and 	blockchain-secured               communication solution for V2X privacy and automotive cybersecurity. 
- 
-MAY - 2025 Aventus 3.0 	 
-Built a solution that guides emergency teams with faster routes to deliver relief supplies during disasters. 
+Extra Curricular / Activities
+Head of Content & Social Media, Photography Club - managed event coverage and improved digital engagement.
+Disciplinary Committee Member - maintained discipline and managed crowds to support smooth execution of college events.
