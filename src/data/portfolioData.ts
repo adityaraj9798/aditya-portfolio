@@ -156,7 +156,7 @@ export const portfolioData = {
         title: "Skillpath AI",
         category: "AI Placement Preparation Platform",
         tools: "MERN Stack, Gemini AI, OpenRouter API, JWT, Render, Vercel",
-        image: "/images/placeholder.webp",
+        image: "/images/skillpath-ai-screenshot.png",
       },
       {
         title: "Smart Task Manager",
