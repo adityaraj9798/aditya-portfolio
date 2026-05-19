@@ -97,6 +97,13 @@ export const portfolioData = {
     subtitle: "experience",
     items: [
       {
+        role: "Data Analyst Intern",
+        company: "Bluestock Fintech (bluestock.in)",
+        period: "Mar 2025 - May 2025",
+        summary:
+          "Built automated Python ETL pipelines to extract, clean, and load 12 years of financial data into a PostgreSQL star-schema data warehouse for efficient analytical querying and business reporting. Analyzed large-scale financial datasets to identify trends and anomalies, delivered actionable insights in a live fintech environment, and collaborated in Agile workflows with code reviews and clean, well-documented Python scripts.",
+      },
+      {
         role: "Virtual Experience",
         company: "Tata Group and Deloitte",
         period: "2025 - 2026",
