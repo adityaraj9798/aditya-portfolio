@@ -160,6 +160,23 @@ export const portfolioData = {
     highlight: "Work",
     projects: [
       {
+        title: "QuizChat",
+        category: "Quiz and Analytics Platform",
+        tools: "Interactive Quiz Flow, Analytics Dashboard, Chat UI, Responsive Design",
+        image: "/images/placeholder.webp",
+        link: "https://quizchat-eight.vercel.app",
+        githubLink: "https://github.com/adityaraj9798/quizchat",
+      },
+      {
+        title: "NayePankh Volunteer System",
+        category: "Volunteer Registration Platform",
+        tools: "Volunteer Registration, Multi-Step Forms, Admin Portal, Responsive UI",
+        image: "/images/placeholder.webp",
+        link: "https://nayepankh-volunteer-system-alpha.vercel.app/",
+        githubLink:
+          "https://github.com/adityaraj9798/nayepankh-volunteer-system",
+      },
+      {
         title: "Skillpath AI",
         category: "AI Placement Preparation Platform",
         tools: "MERN Stack, Gemini AI, OpenRouter API, JWT, Render, Vercel",
