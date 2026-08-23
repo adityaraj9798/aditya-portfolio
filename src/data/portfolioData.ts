@@ -189,6 +189,7 @@ export const portfolioData = {
         category: "Financial Data ETL and Analytics System",
         tools: "Python, SQLite, Pandas, Power BI, ETL, Financial Modeling",
         image: "/images/mutual-fund-data-pipeline.png",
+        githubLink: "https://github.com/adityaraj9798/Mutual-Fund-Analytics",
       },
       {
         title: "NayePankh Volunteer System",
