@@ -139,10 +139,10 @@ export const portfolioData = {
           "Solved more than 200 problems across LeetCode, Codeforces, GeeksforGeeks, InterviewBit, and CodeChef.",
       },
       {
-        title: "LeetCode 50-Day Streak",
+        title: "LeetCode 100-Day Streak",
         period: "2026",
         summary:
-          "Earned a 50-day coding streak badge on LeetCode through consistent daily problem solving.",
+          "Earned a 100-day coding streak badge on LeetCode through consistent daily problem solving.",
       },
       {
         title: "Aventus 3.0",
