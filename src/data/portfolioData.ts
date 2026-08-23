@@ -177,10 +177,18 @@ export const portfolioData = {
         githubLink: "https://github.com/adityaraj9798/smart-task-manager",
       },
       {
+        title: "LeafWise AI",
+        category: "Plant Disease Detection Web App",
+        tools: "React, TypeScript, Swin Transformer, EfficientNetV2",
+        image: "/images/leafwiseai1.png",
+        link: "https://leafwise-ai.vercel.app/",
+        githubLink: "https://github.com/adityaraj9798/leafwise-ai",
+      },
+      {
         title: "Mutual Fund Data Pipeline & Analytics Engine",
         category: "Financial Data ETL and Analytics System",
         tools: "Python, SQLite, Pandas, Power BI, ETL, Financial Modeling",
-        image: "/images/placeholder.webp",
+        image: "/images/mutual-fund-data-pipeline.png",
       },
       {
         title: "NayePankh Volunteer System",
