@@ -44,8 +44,8 @@ export const portfolioData = {
     greeting: "Hello! I'm",
     firstName: "ADITYA",
     lastName: "RAJ",
-    roles: ["Full Stack", "AI"],
-    roleSuffixes: ["Developer", "Builder"],
+    roles: ["Full Stack", "Software"],
+    roleSuffixes: ["Developer", "Engineer"],
   },
   navbar: {
     initials: "AR",
@@ -53,41 +53,44 @@ export const portfolioData = {
   about: {
     title: "About Me",
     description:
-      "I am a B.Tech Electronics and Communication Engineering student at DSCE Bangalore focused on full stack development, scalable web applications, and practical AI-powered products. I work with JavaScript, TypeScript, React, Node.js, and the MERN stack, and I enjoy building secure, responsive applications that solve real user problems with clean engineering and thoughtful user experience.",
+      "I am a final-year Electronics and Communication Engineering student at DSCE Bangalore targeting software engineering and full stack roles. I build scalable web applications with React.js, Node.js, Express.js, MongoDB, JavaScript, and TypeScript, and I enjoy shipping production-ready products with strong API design, authentication, cloud deployment, and a clean user experience.",
   },
   services: [
     {
       title: "FRONTEND",
       subtitle: "Interactive Product Interfaces",
       description:
-        "Building responsive interfaces with React and TypeScript, focused on usability, polished interactions, and real-world product flows across desktop and mobile.",
+        "Building responsive, cross-browser interfaces with React, Context API, modern JavaScript, and TypeScript, with a strong focus on usability and production-ready UI flows.",
       tags: [
-        "React",
+        "React.js",
+        "Redux",
+        "Context API",
         "TypeScript",
-        "AngularJS",
         "JavaScript",
         "HTML5",
         "CSS3",
-        "Responsive UI",
-        "Firebase",
+        "Tailwind CSS",
+        "Responsive Design",
       ],
     },
     {
       title: "BACKEND",
       subtitle: "Secure Full Stack Systems",
       description:
-        "Developing backend systems, APIs, authentication flows, and performance-focused features with an emphasis on scalability, security, and maintainability.",
+        "Developing RESTful APIs, authentication systems, data pipelines, and cloud-deployed backend services with an emphasis on scalability, maintainability, and real-world delivery.",
       tags: [
         "Node.js",
         "Express",
         "MongoDB",
-        "SQL",
+        "PostgreSQL",
+        "MySQL",
+        "SQLite",
         "JWT",
         "OAuth",
         "REST APIs",
-        "Azure",
-        "Spring Boot",
-        "Prompt Engineering",
+        "ETL",
+        "CI/CD",
+        "Postman",
       ],
     },
   ] as ServiceItem[],
@@ -106,16 +109,16 @@ export const portfolioData = {
       {
         role: "Virtual Experience",
         company: "Tata Group and Deloitte",
-        period: "2025 - 2026",
+        period: "2024",
         summary:
-          "Completed data analytics and technology simulation programs, working through practical business analysis, engineering, and problem-solving tasks in industry-style scenarios.",
+          "Cleaned and structured raw business data, shared insights with non-technical stakeholders, and practiced Agile sprint planning, code reviews, and technical documentation in simulated enterprise workflows.",
       },
       {
-        role: "Project Experience",
-        company: "Skillpath AI and Smart Task Manager",
+        role: "Full Stack Project Experience",
+        company: "Skillpath AI, Smart Task Manager, and Data Analytics Systems",
         period: "2026",
         summary:
-          "Built and deployed full stack applications focused on placement preparation and productivity, using MERN architecture, authentication, AI integrations, and deployment workflows.",
+          "Built production-oriented web applications and analytics systems using MERN architecture, JWT authentication, ETL workflows, AI integrations, and Git-based CI/CD deployment.",
       },
       {
         role: "Position of Responsibility",
@@ -151,7 +154,7 @@ export const portfolioData = {
         title: "Industry Certifications",
         period: "2025 - 2026",
         summary:
-          "Earned certifications from Oracle, Deloitte, Tata, and Infosys in areas including generative AI, data analytics, Angular, and full stack development.",
+          "Earned certifications from Oracle, Deloitte, Tata, and Infosys, and completed additional React.js, Node.js, and Next.js certifications.",
       },
     ] as AchievementItem[],
   },
@@ -174,12 +177,10 @@ export const portfolioData = {
         githubLink: "https://github.com/adityaraj9798/smart-task-manager",
       },
       {
-        title: "LeafWise AI",
-        category: "Plant Disease Detection Web App",
-        tools: "React, TypeScript, Swin Transformer, EfficientNetV2",
-        image: "/images/leafwiseai1.png",
-        link: "https://leafwise-ai.vercel.app/",
-        githubLink: "https://github.com/adityaraj9798/leafwise-ai",
+        title: "Mutual Fund Data Pipeline & Analytics Engine",
+        category: "Financial Data ETL and Analytics System",
+        tools: "Python, SQLite, Pandas, Power BI, ETL, Financial Modeling",
+        image: "/images/placeholder.webp",
       },
       {
         title: "NayePankh Volunteer System",
@@ -203,7 +204,7 @@ export const portfolioData = {
   contact: {
     title: "Contact",
     email: "adityarajmanav@gmail.com",
-    education: "B.Tech, ECE - DSCE Bangalore (Sep 2023 - Mar 2027)",
+    education: "B.Tech, ECE - DSCE Bangalore (Sep 2023 - Mar 2027) | CGPA: 7.01",
     footerName: "Aditya Raj",
   },
   socialLinks: [

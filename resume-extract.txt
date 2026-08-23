@@ -1,51 +1,55 @@
-ADITYA Raj
-9798927844
-adityarajmanav@gmail.com
-Aditya raj
-Aditya Leetcode
-Portfolio
+Aditya Raj
+Bangalore, India | 9798927844 | adityarajmanav@gmail.com
+LinkedIn | GitHub | Portfolio | LeetCode
 
-Education
-DSCE Bangalore
-September 2023 - March 2027
-B.Tech, Electronics and Communication Engineering
-Bangalore, India
-Technical Courses: Data Structures and Algorithms, Analysis and Design of Algorithms, Object Oriented Programming, Operating Systems, Web Development, SQL
+SUMMARY
+Final-year Electronics & Communication Engineering student (DSCE Bangalore, 2027) targeting Software Engineer / Full Stack Developer roles, with 3 production-grade MERN applications deployed and hands-on Data Analyst internship experience in a live fintech environment. Builds scalable web applications using React.js, Node.js, Express.js, MongoDB, JavaScript, and TypeScript, with strong command of RESTful API design, JWT authentication, SQL, Git/GitHub version control, and CI/CD-based cloud deployment. Solved 200+ Data Structures & Algorithms problems across LeetCode, Codeforces, and GeeksforGeeks, with a strong problem-solving foundation. Seeking a Full-Stack / MERN Stack Developer role to build production software.
 
-Technical Skills
-Languages: C++, C#, Java 8+ (Streams, Lambdas, Functional Interfaces), JavaScript, TypeScript
-Frameworks & Databases: ASP.NET, AngularJS, Azure, Spring Boot (Basics), Firebase, NodeJs
-Scalability & Performance: Pagination, Query Optimization, API Optimization
-Concepts: OOPs, Data Structures & Algorithms, Authentication & Authorization (JWT, OAuth)
-AI: Prompt Engineering (Basics), AI tool usage (ChatGPT, API models), Embedding Models
-Testing & Quality: Postman Testing, Debugging, Code Reviews
+TECHNICAL SKILLS
+Programming Languages: JavaScript (ES6+), TypeScript, Python, Java, C++, C#
+Frontend: React.js, Redux, Context API, React Hooks, HTML5, CSS3, Bootstrap, Tailwind CSS, Responsive Design, Cross-Browser Compatibility
+Backend: Node.js, Express.js, RESTful API Design, JWT Authentication, OAuth 2.0, bcrypt, MVC Architecture
+Database: MongoDB, Mongoose ODM, PostgreSQL, MySQL, SQLite, Firebase
+Architecture: MVC, RESTful Architecture, Star-Schema Data Modeling, Scalable Component Design
+Developer Tools & Deployment: Git, GitHub, VS Code, Postman, Vercel, Render, Git-based CI/CD
+Testing: API Testing (Postman), Manual & Cross-Browser Testing
+AI & Data Tools: Google Gemini API, OpenRouter API, Prompt Engineering, Power BI, Pandas, ETL
+Other: Next.js (basics), Spring Boot (basics), Data Structures & Algorithms, Object-Oriented Programming, Agile/Scrum
 
-Experience & Work
-Virtual Experience: Tata Group (Data Analytics Simulation), Deloitte (Technology Simulation)
-Project Experience: Skillpath AI (AI-powered placement platform), Smart Task Manager (full stack application using MERN stack)
-Position of Responsibility: Disciplinary Committee Member (event coordination and management)
+EXPERIENCE
+Data Analyst Intern - Bluestock Fintech (bluestock.in)
+Mar 2025 - May 2025 | Remote | Python, PostgreSQL, ETL Pipelines, Data Warehousing, Star Schema, Agile
+- Engineered automated Python ETL pipelines to extract, clean, and load 12 years of financial data into a PostgreSQL star-schema data warehouse, enabling efficient analytical querying and business reporting.
+- Analyzed large-scale financial datasets to identify trends and anomalies, delivering actionable, data-driven insights in a live fintech environment.
+- Followed Agile development practices, participating in sprint planning and peer code reviews while maintaining clean, well-documented Python scripts aligned with industry coding standards.
 
-Projects
-Skillpath AI | MERN Stack, Gemini AI, OpenRouter API, Render, Vercel | April 2026
-- Developed and deployed an AI-powered full-stack placement preparation platform using the MERN stack, featuring personalized roadmap generation, resume analysis, and AI-based mock interviews.
-- Integrated advanced AI capabilities using Google Gemini API and OpenRouter, along with secure authentication using JWT and bcrypt, plus dynamic features like progress tracking, job insights, and PDF export.
-- Deployed the application on Render and Vercel with responsive design and scalable user flows.
+Virtual Experience Program - Tata Group (Data Analytics) and Deloitte (Technology)
+2024
+- Cleaned and structured raw business data, then presented insights and recommendations to non-technical stakeholders.
+- Practiced Agile sprint planning, code reviews, and technical documentation in a simulated enterprise environment.
 
-Smart Task Manager | MERN Stack, JWT, MongoDB, Render | February 2026
-- Developed a full-stack task management application using the MERN stack with JWT-based authentication for secure user registration, login, and protected routes.
-- Implemented CRUD operations, task categorization, priority levels, deadlines, subtasks, notes, and real-time updates.
-- Designed a responsive interface with productivity tracking such as efficiency metrics, streak monitoring, and smart filtering/search.
+PROJECTS
+Skillpath-AI - AI-Powered Placement Preparation Platform
+React.js, Node.js, Express.js, MongoDB, Gemini API, OpenRouter API, JWT, Vercel, Render
+- Built a full-stack MERN platform integrating Google Gemini and OpenRouter APIs to deliver personalized learning roadmaps, resume analysis, and AI-driven mock interviews, with protected routes secured via JWT and bcrypt authentication.
+- Implemented Context API for global state management and a responsive, cross-browser UI featuring progress tracking, job insights, and PDF export; deployed via Git-based CI/CD on Vercel and Render.
 
-LeafWise AI | React, TypeScript, Swin Transformer, EfficientNetV2 | January 2026
-- Developed a deep learning-based web application for plant disease detection using React and TypeScript, allowing users to upload leaf images and receive instant predictions.
-- Implemented a hybrid model combining Swin Transformer and EfficientNetV2 trained on the PlantVillage dataset for improved classification accuracy.
+Smart Task Manager - Full-Stack Task Management Application
+React.js, Node.js, Express.js, MongoDB, JWT, Context API, Render, Vercel
+- Developed a MERN-stack task management application with full CRUD operations, JWT authentication, task categorization, priority levels, and deadline tracking with real-time UI updates; deployed on Render via a Git CI/CD workflow.
+- Designed a mobile-first, cross-browser compatible interface featuring efficiency metrics, streak monitoring, and smart filtering.
 
-Achievements
-- Solved more than 200+ problems across LeetCode, Codeforces, GeeksforGeeks, InterviewBit, and CodeChef.
-- Achieved a 50-day coding streak badge on LeetCode.
-- Built a disaster management solution at Aventus 3.0 (May 2025), optimizing emergency routes for faster relief delivery.
-- Earned certifications from Oracle, Deloitte, Tata, and Infosys (Angular Web Developer), gaining experience in Generative AI, data analytics, and full-stack development.
+Mutual Fund Data Pipeline & Analytics Engine
+Python, SQLite, Pandas, Power BI, ETL, Financial Modeling
+- Architected an end-to-end Python ETL pipeline to ingest, clean, and normalize 150,000+ rows of fragmented mutual fund data into a relational SQLite database using a star-schema topology.
+- Programmed financial business logic including CAGR, Rolling Sharpe Ratio, and Historical VaR to evaluate fund performance and flag portfolio concentration risk; integrated results into a 4-page interactive Power BI dashboard.
 
-Extra Curricular / Activities
-Head of Content & Social Media, Photography Club - managed event coverage and improved digital engagement.
-Disciplinary Committee Member - maintained discipline and managed crowds to support smooth execution of college events.
+EDUCATION
+B.Tech, Electronics & Communication Engineering - DSCE Bangalore | Sep 2023 - Mar 2027 | CGPA: 7.01
+Relevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Web Development, SQL, Algorithm Analysis & Design
+
+CERTIFICATIONS & ACHIEVEMENTS
+- Solved 200+ problems on LeetCode, Codeforces, GeeksforGeeks, and CodeChef; maintained a 50-day LeetCode streak.
+- Built an emergency route optimization solution at Aventus 3.0 Hackathon (May 2025) using graph algorithms for faster relief delivery.
+- Certified: Oracle (Java), Deloitte (Technology), Tata (Data Analytics), Infosys (Angular); completed React.js, Node.js, and Next.js certifications.
+- Head of Content & Social Media, Photography Club, DSCE - managed digital content and event coverage for a 10+ member team.
