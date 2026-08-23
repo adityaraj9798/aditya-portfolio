@@ -207,6 +207,15 @@ export const portfolioData = {
         link: "https://quizchat-eight.vercel.app",
         githubLink: "https://github.com/adityaraj9798/quizchat",
       },
+      {
+        title: "Mini ERP + CRM Operations Portal",
+        category: "ERP and CRM Admin Dashboard",
+        tools: "Admin Workspace, Customer Management, Product Tracking, Stock Alerts, Responsive UI",
+        image: "/images/mini-erp-crm-operations-portal.png",
+        link: "https://mini-erp-crm-operations-portal-clie.vercel.app/",
+        githubLink:
+          "https://github.com/adityaraj9798/mini-erp-crm-operations-portal",
+      },
     ] as ProjectItem[],
   },
   contact: {
